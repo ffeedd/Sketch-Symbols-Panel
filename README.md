@@ -6,7 +6,7 @@ I have a idea，and I designed an UI for it.
 but I don’t knowing how to code，Some people like to do?
 
 
-All components are displayed as the finder，and you can drag the symbol into document.
+All symbols are displayed as the finder，and you can drag the symbol into document.
 some design shot in here.
 
 ![](https://github.com/ffeedd/Sketch-Symbols-Panel/blob/master/panel1.png)
